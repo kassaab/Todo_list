@@ -1,0 +1,2 @@
+# To_Do_list_app_with_user_authentication
+Django To Do list app with User Registration, Login, Search, Create, Update and Delete functionality.
