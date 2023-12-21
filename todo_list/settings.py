@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-6u)6ryq)n#u_yprpg9am8wt-03ot#k_=+96g^fz61%c2kv%u58
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://todo-041c.kassa.zeet.app', 'todo-041c.kassa.zeet.app', '.zeet.app', '127.0.0.1']
+ALLOWED_HOSTS = ['todo-041c.kassa.zeet.app']
 
 
 # Application definition
