@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-6u)6ryq)n#u_yprpg9am8wt-03ot#k_=+96g^fz61%c2kv%u58'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['https://todo-041c.kassa.zeet.app', '.zeet.app', 'zeet.app', '.kassa.zet.app', 'kassa.zet.app']
+ALLOWED_HOSTS = ['https://todo-041c.kassa.zeet.app', 'todo-041c.kassa.zeet.app', '.zeet.app', '127.0.0.1']
 
 
 # Application definition

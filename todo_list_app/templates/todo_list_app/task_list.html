@@ -3,6 +3,7 @@
 
 
 <div class="header-bar">
+    {% csrf_token %}
     <div>
         <h1>Hello {{request.user|title}}</h1>
         <h3 style="margin:0">You have <i>{{count}}</i> incomplete task{{count|pluralize:"s"}}</h3>
